@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/wedding-attendance-list/static/css/main.5f361e03.chunk.css",
-    "main.js": "/wedding-attendance-list/static/js/main.cc3d86a7.chunk.js",
-    "main.js.map": "/wedding-attendance-list/static/js/main.cc3d86a7.chunk.js.map",
+    "main.css": "/wedding-attendance-list/static/css/main.9c353149.chunk.css",
+    "main.js": "/wedding-attendance-list/static/js/main.301992ee.chunk.js",
+    "main.js.map": "/wedding-attendance-list/static/js/main.301992ee.chunk.js.map",
     "runtime-main.js": "/wedding-attendance-list/static/js/runtime-main.2d9065bd.js",
     "runtime-main.js.map": "/wedding-attendance-list/static/js/runtime-main.2d9065bd.js.map",
-    "static/js/2.9d840f1c.chunk.js": "/wedding-attendance-list/static/js/2.9d840f1c.chunk.js",
-    "static/js/2.9d840f1c.chunk.js.map": "/wedding-attendance-list/static/js/2.9d840f1c.chunk.js.map",
+    "static/js/2.c8adb464.chunk.js": "/wedding-attendance-list/static/js/2.c8adb464.chunk.js",
+    "static/js/2.c8adb464.chunk.js.map": "/wedding-attendance-list/static/js/2.c8adb464.chunk.js.map",
     "index.html": "/wedding-attendance-list/index.html",
-    "precache-manifest.3cda4ccf2e2dfdf64ca3b322180e0075.js": "/wedding-attendance-list/precache-manifest.3cda4ccf2e2dfdf64ca3b322180e0075.js",
+    "precache-manifest.a6e9f43fb8a6160971fefc60dd8c2cb8.js": "/wedding-attendance-list/precache-manifest.a6e9f43fb8a6160971fefc60dd8c2cb8.js",
     "service-worker.js": "/wedding-attendance-list/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/wedding-attendance-list/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9d840f1c.chunk.js.LICENSE.txt": "/wedding-attendance-list/static/js/2.9d840f1c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/wedding-attendance-list/static/media/logo.5d5d9eef.svg"
+    "static/css/main.9c353149.chunk.css.map": "/wedding-attendance-list/static/css/main.9c353149.chunk.css.map",
+    "static/js/2.c8adb464.chunk.js.LICENSE.txt": "/wedding-attendance-list/static/js/2.c8adb464.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/wedding-attendance-list/static/media/bg_gray.96fc937f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2d9065bd.js",
-    "static/js/2.9d840f1c.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.cc3d86a7.chunk.js"
+    "static/js/2.c8adb464.chunk.js",
+    "static/css/main.9c353149.chunk.css",
+    "static/js/main.301992ee.chunk.js"
   ]
 }

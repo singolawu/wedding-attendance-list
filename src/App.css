@@ -1,7 +1,15 @@
 .App {
   text-align: center;
+  min-height: 100%;
+  display: flex;
+  flex: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('./bg_gray.png')
 }
-
+td {
+  border: 1px solid black;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
